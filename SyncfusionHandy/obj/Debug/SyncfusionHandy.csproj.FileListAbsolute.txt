@@ -16,3 +16,13 @@ D:\2018-workings\hackathon\SyncfusionHandy\SyncfusionHandy\obj\Debug\SyncfusionH
 D:\2018-workings\hackathon\SyncfusionHandy\SyncfusionHandy\obj\Debug\SyncfusionHandy.Form1.resources
 D:\2018-workings\hackathon\SyncfusionHandy\SyncfusionHandy\obj\Debug\SyncfusionHandy.Properties.Resources.resources
 D:\2018-workings\hackathon\SyncfusionHandy\SyncfusionHandy\obj\Debug\SyncfusionHandy.csproj.GenerateResource.Cache
+D:\Hacthon\SVN-SyncHandy\SyncfusionHandy\SyncfusionHandy\bin\Debug\SyncfusionHandy.exe.config
+D:\Hacthon\SVN-SyncHandy\SyncfusionHandy\SyncfusionHandy\bin\Debug\SyncfusionHandy.exe
+D:\Hacthon\SVN-SyncHandy\SyncfusionHandy\SyncfusionHandy\bin\Debug\SyncfusionHandy.pdb
+D:\Hacthon\SVN-SyncHandy\SyncfusionHandy\SyncfusionHandy\obj\Debug\SyncfusionHandy.csprojResolveAssemblyReference.cache
+D:\Hacthon\SVN-SyncHandy\SyncfusionHandy\SyncfusionHandy\obj\Debug\SyncfusionHandy.CommandCreator.resources
+D:\Hacthon\SVN-SyncHandy\SyncfusionHandy\SyncfusionHandy\obj\Debug\SyncfusionHandy.Form1.resources
+D:\Hacthon\SVN-SyncHandy\SyncfusionHandy\SyncfusionHandy\obj\Debug\SyncfusionHandy.Properties.Resources.resources
+D:\Hacthon\SVN-SyncHandy\SyncfusionHandy\SyncfusionHandy\obj\Debug\SyncfusionHandy.csproj.GenerateResource.Cache
+D:\Hacthon\SVN-SyncHandy\SyncfusionHandy\SyncfusionHandy\obj\Debug\SyncfusionHandy.exe
+D:\Hacthon\SVN-SyncHandy\SyncfusionHandy\SyncfusionHandy\obj\Debug\SyncfusionHandy.pdb

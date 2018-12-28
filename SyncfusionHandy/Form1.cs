@@ -206,7 +206,7 @@ namespace SyncfusionHandy
 
         private void button5_Click(object sender, EventArgs e)
         {
-            new CommandCreator().ShowDialog();
+            //new CommandCreator().ShowDialog();
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -224,6 +224,16 @@ namespace SyncfusionHandy
             this.Show();
             this.textBox1.Text = "Screen shot saved!";
             this.textBox1.SelectAll();
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            Process.Start("notepad++.exe");
         }
     }
 }
